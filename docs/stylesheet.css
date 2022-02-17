@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: "New Athletic";
-    src:url("/docs/fonts/newathletic/NewAthleticM54.ttf");
+    src:url("../fonts/newathletic/NewAthleticM54.ttf");
 }
 body {
     background-color: #0b0a0a;
